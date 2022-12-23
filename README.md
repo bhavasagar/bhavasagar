@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhavasagar ( Ex-employee at Presimax soft solutions )
+- 👋 Hi, I’m @bhavasagar
 - 👀 I’m interested in science and technology 
 - 🌱 I’m currently learning how to start living in this world.
 - 💞️ I’m looking to collaborate on any technical project which challenges me.
