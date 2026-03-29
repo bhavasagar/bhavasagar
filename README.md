@@ -10,7 +10,7 @@
 
 ---
 
-3 years building LLM-powered automation, RAG systems, and event-driven pipelines at **DiligenceVault** — a Goldman Sachs–backed fintech SaaS platform.
+3 years building LLM-powered automation, RAG systems, and event-driven pipelines.
 
 **Stack**  
 `Python` `FastAPI` `Kafka` `Redis` `MSSQL` `Docker` `AWS`  
