@@ -3,7 +3,6 @@
 ### Bhavasagar P
 
 **Backend Engineer · AI/LLM Systems**  
-Bengaluru, India
 
 [LinkedIn](https://linkedin.com/in/bhavasagar-p) &nbsp;·&nbsp; [Email](mailto:bhavasagar09@gmail.com)
 
